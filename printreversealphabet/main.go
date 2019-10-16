@@ -30,5 +30,5 @@ func main() {
 	z01.PrintRune(99)
 	z01.PrintRune(98)
 	z01.PrintRune(97)
-	z01.PrintRune('\n')
+	z01.PrintRune(10)
 }
