@@ -4,8 +4,6 @@ import "github.com/01-edu/z01"
 
 func main() {
 
-	
-	
 	z01.PrintRune(97)
 	z01.PrintRune(98)
 	z01.PrintRune(99)
@@ -32,7 +30,6 @@ func main() {
 	z01.PrintRune(120)
 	z01.PrintRune(121)
 	z01.PrintRune(122)
-
 	z01.PrintRune('\n')
 
 	
