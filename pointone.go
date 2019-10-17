@@ -1,15 +1,6 @@
-package main
+package piscine
 
-import "fmt"
+func PointOne(n *int) {
 
-func main() {
-	n := 0
-	a := n + 1
-
-	fmt.Println(a)
-
-	var pointer *int = &a
-
-	fmt.Println(pointer)
-
+			*n = 1
 }
