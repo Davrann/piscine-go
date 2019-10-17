@@ -3,13 +3,13 @@ package main
 import "fmt"
 
 func main() {
-		n := 0
-		a := n + 1
-		
-		fmt.Println(a)
+	n := 0
+	a := n + 1
 
-		var pointer *int = &a
+	fmt.Println(a)
 
-		fmt.Println(pointer)
+	var pointer *int = &a
+
+	fmt.Println(pointer)
 
 }
